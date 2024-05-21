@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/roboflow/swift-sdk",
+      "state" : {
+        "revision" : "19f6863e8612cf72a541d9b862e2681ae1a9e051",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
